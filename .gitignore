@@ -1,2 +1,8 @@
 node_modules/
 dist/
+templates/
+!templates/.gitkeep
+yarn.lock
+package-lock.json
+.node-version
+
